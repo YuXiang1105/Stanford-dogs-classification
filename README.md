@@ -6,5 +6,6 @@ The test was not made because of power limit.
 
 ```bash
 >>> pip install -r requirements.txt
+```
 
 For more information about Powerline, please refer to the Powerline installation docs especially regarding font installation.
